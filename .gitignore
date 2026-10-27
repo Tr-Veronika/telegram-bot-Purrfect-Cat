@@ -1,7 +1,6 @@
 
 # Environment variables and secrets
 .env
-.env.*
 
 # Keep the example configuration
 !.env.example
