@@ -1,4 +1,4 @@
-# 🐱 Purrfect Cat Bot
+<h1 align="center">🐱 Purrfect Cat Bot</h1>
 
 **Твоя ежедневная доза котиков, лапок и мурчания! 🐾**
 
